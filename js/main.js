@@ -8,8 +8,8 @@ Quản lý nhân viên
 // console.log(nhanVien);
 
 // Thêm Nhân Viên
-function themNguoiDung(){
-    console.log("Thêm người dùng");
+function themnguoidung (){
+    console.log("Thêm người dùng !");
 }
 var mangNhanVien = [];
 var validation = new Validation();
